@@ -1,5 +1,9 @@
 # Amplifier dev-session scaffolding (not part of the bundle)
 AGENTS.md
+# Coordination files moved under the hidden per-repo directory
+# (amplifier-bundle-memory hooks-project-context 1.2.0); the bare name is kept
+# so an older clone that still has them at the root stays ignored too.
+.amplifier/project-context/
 project-context/
 
 # Recipe run state
